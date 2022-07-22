@@ -1,0 +1,59 @@
+html, body {
+    background-color: rgb(210, 254, 143);
+    /*margin: 0;
+    padding: 0;*/
+}
+
+.top {
+    background-color: white;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.tiile {
+    text-align: center;
+}
+
+.main-c {
+    max-width: 350px;
+    float: left;
+    margin-left: 60px;
+}
+
+.main-c1 {
+    max-width: 350px;
+    float: left;
+}
+
+.main-c2 {
+    max-width: 350px;
+    float: left;
+}
+
+.main-c3 {
+    max-width: 350px;
+    float: left;
+}
+
+.T1 {
+    background-color: white;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.image {
+    width: 250px;
+    height: 200px;
+    border-radius: 25px;
+}
+
+.bottom-footer {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 25px;
+    margin-top: 2100px;
+}
